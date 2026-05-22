@@ -1,0 +1,146 @@
+[
+  {
+    "title": "France",
+    "url": "https://en.wikipedia.org/wiki/France",
+    "extract": "France, officially the French Republic, is a country primarily located in Western Europe. Its capital and largest city is Paris.",
+    "page_id": 5843419,
+    "last_revid": 1,
+    "retrieval_mode": "intro",
+    "keywords": ["france", "capital", "paris"]
+  },
+  {
+    "title": "Paris",
+    "url": "https://en.wikipedia.org/wiki/Paris",
+    "extract": "Paris is the capital and largest city of France.",
+    "page_id": 22989,
+    "last_revid": 1,
+    "retrieval_mode": "intro",
+    "keywords": ["paris", "capital", "france"]
+  },
+  {
+    "title": "Example Person",
+    "url": "https://en.wikipedia.org/wiki/Example_Person",
+    "extract": "In later life, Example Person received the Order of the Example for public service.",
+    "page_id": 1001,
+    "last_revid": 2,
+    "retrieval_mode": "full_chunked",
+    "keywords": ["example", "person", "honor", "order", "later life", "award"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice",
+    "extract": "Pride and Prejudice is a novel by English author Jane Austen.",
+    "page_id": 24126,
+    "last_revid": 3,
+    "retrieval_mode": "intro",
+    "keywords": ["pride", "prejudice", "author", "jane", "austen"]
+  },
+  {
+    "title": "Jane Austen",
+    "url": "https://en.wikipedia.org/wiki/Jane_Austen",
+    "extract": "Jane Austen was an English novelist born in Steventon, Hampshire.",
+    "page_id": 4097,
+    "last_revid": 14,
+    "retrieval_mode": "intro",
+    "keywords": ["jane", "austen", "born", "birthplace", "steventon", "hampshire"]
+  },
+  {
+    "title": "Mercury (element)",
+    "url": "https://en.wikipedia.org/wiki/Mercury_(element)",
+    "extract": "Mercury is a chemical element; it has symbol Hg and atomic number 80.",
+    "page_id": 19034,
+    "last_revid": 4,
+    "retrieval_mode": "intro",
+    "keywords": ["mercury", "element", "chemical", "symbol", "hg"]
+  },
+  {
+    "title": "Iron",
+    "url": "https://en.wikipedia.org/wiki/Iron",
+    "extract": "Iron is a chemical element; it has symbol Fe and atomic number 26.",
+    "page_id": 14533,
+    "last_revid": 5,
+    "retrieval_mode": "intro",
+    "keywords": ["iron", "chemical", "element", "symbol", "fe"]
+  },
+  {
+    "title": "Apollo 11",
+    "url": "https://en.wikipedia.org/wiki/Apollo_11",
+    "extract": "Apollo 11 was the American spaceflight that first landed humans on the Moon in 1969.",
+    "page_id": 389,
+    "last_revid": 6,
+    "retrieval_mode": "intro",
+    "keywords": ["apollo", "11", "moon", "landed", "1969"]
+  },
+  {
+    "title": "Pacific Ocean",
+    "url": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+    "extract": "The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions.",
+    "page_id": 23045,
+    "last_revid": 7,
+    "retrieval_mode": "intro",
+    "keywords": ["pacific", "ocean", "largest", "earth"]
+  },
+  {
+    "title": "Mount Everest",
+    "url": "https://en.wikipedia.org/wiki/Mount_Everest",
+    "extract": "Mount Everest is Earth's highest mountain above sea level.",
+    "page_id": 19173,
+    "last_revid": 15,
+    "retrieval_mode": "intro",
+    "keywords": ["mount", "everest", "highest", "mountain", "earth"]
+  },
+  {
+    "title": "Mount Kilimanjaro",
+    "url": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro",
+    "extract": "Mount Kilimanjaro is a dormant volcano in Tanzania.",
+    "page_id": 18936,
+    "last_revid": 8,
+    "retrieval_mode": "intro",
+    "keywords": ["mount", "kilimanjaro", "tanzania", "country"]
+  },
+  {
+    "title": "The Magic Flute",
+    "url": "https://en.wikipedia.org/wiki/The_Magic_Flute",
+    "extract": "The Magic Flute is an opera by Wolfgang Amadeus Mozart.",
+    "page_id": 30349,
+    "last_revid": 9,
+    "retrieval_mode": "intro",
+    "keywords": ["magic", "flute", "composer", "mozart", "wolfgang", "amadeus"]
+  },
+  {
+    "title": "Taj Mahal",
+    "url": "https://en.wikipedia.org/wiki/Taj_Mahal",
+    "extract": "The Taj Mahal is a mausoleum in Agra, Uttar Pradesh, India. The capital of India is New Delhi.",
+    "page_id": 30443,
+    "last_revid": 10,
+    "retrieval_mode": "section",
+    "keywords": ["taj", "mahal", "india", "capital", "new", "delhi"]
+  },
+  {
+    "title": "Hamlet",
+    "url": "https://en.wikipedia.org/wiki/Hamlet",
+    "extract": "Hamlet is a tragedy written by William Shakespeare.",
+    "page_id": 13570,
+    "last_revid": 11,
+    "retrieval_mode": "intro",
+    "keywords": ["hamlet", "william", "shakespeare", "wrote", "author"]
+  },
+  {
+    "title": "Prompt engineering",
+    "url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+    "extract": "Prompt engineering is the process of structuring an instruction that can be interpreted and understood by a generative artificial intelligence model. A prompt may include a description of the task, examples, context, or constraints.",
+    "page_id": 70560000,
+    "last_revid": 12,
+    "retrieval_mode": "intro",
+    "keywords": ["prompt", "prompts", "prompting", "engineering", "generative", "ai", "instruction", "examples", "context", "constraints"]
+  },
+  {
+    "title": "Oxygen-evolving complex",
+    "url": "https://en.wikipedia.org/wiki/Oxygen-evolving_complex",
+    "extract": "The oxygen-evolving complex is the active site of a water-oxidizing enzyme involved in photosynthesis. The active site consists of a cluster of manganese and calcium cofactors. In this local edge-case snippet, ethanol is noted as being excluded from the reaction zone besides water.",
+    "page_id": 2410807,
+    "last_revid": 13,
+    "retrieval_mode": "intro",
+    "keywords": ["oxygen", "evolving", "complex", "oxygen-evolving", "oec", "water", "oxidizing", "photosynthesis", "manganese", "calcium", "cofactor", "reaction", "zone", "ethanol"]
+  }
+]

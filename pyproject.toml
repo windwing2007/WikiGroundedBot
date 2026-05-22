@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wikigrounded"
+version = "0.1.0"
+description = "Claude + Wikipedia grounded question-answering CLI"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+wikigrounded = "wikigrounded.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["wikigrounded*"]
+
+[tool.setuptools.package-data]
+wikigrounded = ["fixtures/*.json"]
