@@ -4,6 +4,12 @@ A small Claude + Wikipedia grounded QA CLI for the Anthropic prompt engineering 
 
 ## Setup
 
+Requirements:
+
+- Python 3.9 or newer
+- `pip`
+- An Anthropic API key for live answering and eval runs
+
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
